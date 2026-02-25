@@ -44,7 +44,7 @@ No more quarterly access reviews. No more offboarding checklists. No more orphan
 
 ### Security Hub Findings
 
-![Security Hub](screenshots/security-hub-findings.png)
+![Security Hub](screenshots/security-hub-findings1.png)
 *Audit-ready findings with NIST 800-53 control mappings (AC-2, AC-6) for every IAM action*
 
 ---
